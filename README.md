@@ -1,6 +1,11 @@
 # Whiskr
 A purr-fectly crafted open-source Discord bot that brings you random cat pictures, breed info, and favorites — powered by TheCatAPI. Whiskr is fully open-sourced so that you can customize it to your liking.
-> Developed by As2Bax (@vqel on Discord), created with discord.py 2.5.2
+
+Contributions to this repository are very welcome! Please create an issue or pull request if you want to add features to this bot.
+
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/github/license/As2Bax/Whiskr)
+![Issues](https://img.shields.io/github/issues/As2Bax/Whiskr)
 
 ## Features
 - 🐈 Randomized cat images - `/randomimage`
@@ -9,7 +14,7 @@ A purr-fectly crafted open-source Discord bot that brings you random cat picture
 - 📰 View interesting info about cat breeds - `/breedinfo`
 - 🎨 Whiskr is fully customizable; change things up, make it yours!
 - 📨 User installs are supported along with guild installations
-  
+
 ## Images
 ![The /randomimage command](https://r2.e-z.host/aa2b4cc6-0670-4139-abd2-29af34e8b12e/qeox9145.png)
 ![The /favorites command](https://r2.e-z.host/aa2b4cc6-0670-4139-abd2-29af34e8b12e/3kyx5k6k.png)
