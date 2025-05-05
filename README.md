@@ -28,7 +28,7 @@ A purr-fectly crafted Discord bot that brings you random cat pictures, breed inf
    > Windows, Linux, and macOS are supported
    
 3. When opened, head to `File > Open Folder`. Select '`Whiskr`' inside the extracted `codebase.zip`
-   > Make sure to download `codebase.zip` - this contains everything you need to run the bot
+   > Make sure to download `codebase.zip` - Click on the file, then press the download button on the top left
 
 4. Once you've opened the `Whiskr` folder inside `codebase` in VSC, fill in `config.env` with:
    - Your Discord bot token (Can be found in the `Bot` tab in your application)
