@@ -22,9 +22,9 @@ Contributions to this repository are very welcome! Please create an issue or pul
 
 ## Installation Instructions
 1. Create your Discord application (if you haven't: https://discord.com/developers/applications)
-   - In your Discord application, head to the `Installation` tab and scroll down to `Guild Install`. Click `Scopes`, followed by `bot`. Another dropdown will show with permissions. Select `Send Messages` and `Attach Files` to ensure full bot functionality.
+   - In your Discord application, head to the `Installation` tab and scroll down to `Guild Install`. Click `Scopes`, followed by `bot`. A dropdown with permissions will show up. Select `Send Messages` and `Attach Files` to ensure full bot functionality.
      
-   - User installs are supported; if you want to use that, make sure you keep `User Install` enabled in `Installation Contexts`.
+   - User installs are supported; if you want to use that, keep `User Install` enabled in `Installation Contexts`.
      
    - Make sure you have `Message Intents` enabled on the `Bot` page
 
