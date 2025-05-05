@@ -1,5 +1,5 @@
 # Whiskr
-A purr-fectly crafted Discord bot that brings you random cat pictures, breed info, and favorites — powered by TheCatAPI. Whiskr is fully open-sourced so that you can customize it to your liking.
+A purr-fectly crafted open-source Discord bot that brings you random cat pictures, breed info, and favorites — powered by TheCatAPI. Whiskr is fully open-sourced so that you can customize it to your liking.
 > Developed by As2Bax (@vqel on Discord), created with discord.py 2.5.2
 
 ## Features
