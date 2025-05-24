@@ -1,0 +1,12 @@
+{
+    "name": "Whiskr",
+    "description": "A purr-fect open-source Discord bot that brings you random cat pictures, breed info, and favorites — powered by TheCatAPI.",
+    "developer": "As2Bax",
+
+    "copyright": "© 2025 As2Bax",
+    "license": "MIT",
+
+    "repository": "https://github.com/As2Bax/Whiskr",
+    "version": "main-1.1",
+    "build": "2025.5.7"
+}
