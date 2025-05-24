@@ -8,15 +8,14 @@ Whiskr is coded with discord.py; version **2.4** or higher is recommended
 ![Issues](https://img.shields.io/github/issues/As2Bax/Whiskr)
 
 ## Features
-- 🐈 Randomized cat images - `/randomimage`
-- 🔎 View cat images based on breed - `/searchimage`
+- 🐈 Randomized cat images with optional configurations - `/catimage`
 - ❤️ Favorite your loved cat pictures — and view yours or others with `/favorites`
 - 📰 View interesting info about cat breeds - `/breedinfo`
 - 🎨 Whiskr is fully customizable; change things up, make it yours!
 - 📨 User installs are supported along with guild installations
 
 ## Images
-![The /randomimage command](https://r2.e-z.host/aa2b4cc6-0670-4139-abd2-29af34e8b12e/qeox9145.png)
+![The /catimage command](https://r2.e-z.host/aa2b4cc6-0670-4139-abd2-29af34e8b12e/qeox9145.png)
 ![The /favorites command](https://r2.e-z.host/aa2b4cc6-0670-4139-abd2-29af34e8b12e/3kyx5k6k.png)
 ![The /breedinfo command](https://r2.e-z.host/aa2b4cc6-0670-4139-abd2-29af34e8b12e/72jklbjj.png)
 
