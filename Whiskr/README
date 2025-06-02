@@ -1,4 +1,4 @@
-Copyright (c) 2025 As2Bax
+Copyright (c) 2025 Monobyte Studios
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,24 +18,26 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+# Whiskr
 A purr-fectly crafted open-source Discord bot that brings you random cat pictures, breed info, and favorites — powered by TheCatAPI. Whiskr is fully open-sourced so that you can customize it to your liking.
 Whiskr is coded with discord.py; version **2.4** or higher is recommended
 
-Features
-- 🐈 Randomized cat images - `/randomimage`
-- 🔎 View cat images based on breed - `/searchimage`
+# Features
+- 🐈 Randomized cat images with optional configurations - `/catimage`
 - ❤️ Favorite your loved cat pictures — and view yours or others with `/favorites`
 - 📰 View interesting info about cat breeds - `/breedinfo`
 - 🎨 Whiskr is fully customizable; change things up, make it yours!
 - 📨 User installs are supported along with guild installations
 
-Installation Instructions
+
+# Installation Instructions
 1. Create your Discord application (if you haven't: https://discord.com/developers/applications)
    - In your Discord application, head to the `Installation` tab and scroll down to `Guild Install`. Click `Scopes`, followed by `bot`. A dropdown with permissions will show up. Select `Send Messages` and `Attach Files` to ensure full bot functionality.
      
    - User installs are supported; if you want to use that, keep `User Install` enabled in `Installation Contexts`.
      
    - Make sure you have `Message Intents` enabled on the `Bot` page
+
 
 2. Install Visual Studio Code https://code.visualstudio.com/download (Highly recommended)
    > Windows, Linux, and macOS are supported
@@ -48,8 +50,8 @@ Installation Instructions
    - Your TheCatAPI key (Get it here: https://thecatapi.com)
 
 5. Head to `View > Terminal` on the top left. This will open a terminal on the bottom with a path to the folder you opened. If you set this up correctly, it should eventually lead to the `Whiskr` folder. **NOT** `codebase`.
-
 6. Run this in the terminal box:
+
    pip install -r requirements.txt
 
    This automatically installs every package in requirements.txt
