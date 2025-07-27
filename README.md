@@ -48,6 +48,9 @@ Whiskr is coded with discord.py; version **2.4** or higher is recommended
    > Make sure you also have Python installed: https://www.python.org/
 
 7. Select `main.py` on the VSC explorer. You should see a play button on the top left. Click that. If you set up everything correctly, the bot should start without problems.
+
+   > ⚠️ You need the Python extension to see the play button on the top right corner.
+
    > You can always make other ways to start this bot; as long as it starts main.py, everything will work correctly.
 
 Have fun! You're all set up 😺
