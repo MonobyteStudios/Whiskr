@@ -55,3 +55,5 @@ Whiskr is coded with discord.py; version **2.4** or higher is recommended
 
 Have fun! You're all set up 😺
 
+## Credits
+As2Bax *(Lead Production)* - Lead Development
