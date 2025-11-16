@@ -1,4 +1,4 @@
-![Whiskr Logo](https://i.imgur.com/UyBSnGC.png)
+![Whiskr Logo](https://cdn.monobyte.studio/projects/whiskr.png)
 # Whiskr
 A purr-fectly crafted open-source Discord bot that brings you random cat pictures, breed info, and favorites; powered by TheCatAPI. Whiskr is fully open-sourced so that you can customize it to your liking.
 
